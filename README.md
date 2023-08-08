@@ -12,12 +12,3 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
-<figure><embed src="https://wakatime.com/share/@kouroshmoshrefi/ec9fe886-8039-4d1e-82be-19639503357f.svg"></embed></figure>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kouroshmoshrefi&show_icons=true&locale=en&layout=compact" alt="kouroshmoshrefi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kouroshmoshrefi&show_icons=true&locale=en" alt="kouroshmoshrefi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kouroshmoshrefi&" alt="kouroshmoshrefi" /></p>
