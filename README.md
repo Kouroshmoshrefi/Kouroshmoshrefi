@@ -3,4 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kouroshmoshrefi&label=Profile%20views&color=0e75b6&style=flat" alt="kouroshmoshrefi" /> </p>
 
-<figure><embed src="https://wakatime.com/share/@kouroshmoshrefi/b16f1764-f6a9-4091-8181-893232c1e0e4.svg"></embed></figure>
+<p>
+  <figure><embed src="https://wakatime.com/share/@kouroshmoshrefi/b16f1764-f6a9-4091-8181-893232c1e0e4.svg"></embed></figure>
+</p>
