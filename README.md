@@ -8,5 +8,5 @@
 </p>
 
 <p>
-  <img src="https://wakatime.com/badge/user/e5382a40-0748-45c9-9bdb-a36a91215d13.svg" alt="Hours Coded Wakatime Report!'>
+  <img src="https://wakatime.com/badge/user/e5382a40-0748-45c9-9bdb-a36a91215d13.svg" alt="Hours Coded Wakatime Report!' />
 </p>
